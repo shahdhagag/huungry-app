@@ -1,4 +1,4 @@
-# 🍔 Huungry App
+# 🍔 Hungry App
 
 **Huungry? Yes, Let's Eat!** is a **Flutter food delivery app** that I built to **learn and practice REST API integration**. It features real-world app functionality like user authentication, cart and order management, and guest/logged-in user modes, using **Dio** for API calls, **Shared Preferences** for local storage, and **Postman** for testing APIs.
 
