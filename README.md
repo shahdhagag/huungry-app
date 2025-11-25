@@ -25,6 +25,25 @@
 **Splash Screen**  
 <img src="https://github.com/user-attachments/assets/6e5d8213-fbab-42c8-878e-be022ccd9b16" width="200" />
 
+---
+
+### Logged-in User
+
+** Home Screens – Logged-in User**  
+<img src="https://github.com/user-attachments/assets/be89e813-ee69-4785-9f99-9f97e114eaa0" width="200" /> 
+**Customize your Sandwich – Logged-in User**  
+<img src="https://github.com/user-attachments/assets/173838e2-f9dd-4200-a2c5-9f5b8ff6ab35" width="200" /> 
+
+**Cart & Order History & checkout & Profile – Logged-in User**  
+<img src="https://github.com/user-attachments/assets/3c0b0638-082a-42e0-87c3-9aaad3d8549f" width="200" /> 
+<img src="https://github.com/user-attachments/assets/ab6c6327-2fbb-43ea-9243-7ea1b1236160" width="200" /> 
+<img src="https://github.com/user-attachments/assets/8705c07a-652d-43c7-91b3-5c370bdf872c" width="200" /> 
+<img width="1080" height="2160" alt="Screenshot_20251125_025727" src="https://github.com/user-attachments/assets/6a6bc2d2-4c0c-4725-b62b-0b450f196f92" />
+<img src="https://github.com/user-attachments/assets/4bdb11c2-ac8e-46e3-82bc-b3a13bb15e0d" width="200" /> 
+
+
+---
+
 **Home & Feature Screens – Guest Mode**  
 <img src="https://github.com/user-attachments/assets/6746ee7a-5d80-47dd-873d-7039ee558f0d" width="200" /> 
 <img src="https://github.com/user-attachments/assets/2ac67798-80a7-4c34-94e5-f670ab4f207f" width="200" /> 
@@ -33,21 +52,6 @@
 
 > In **Guest Mode**, users can browse the home screen and products, but **Cart**, **Orders**, and **Profile** pages show a guest warning with a prompt to login.
 
----
-
-### Logged-in User
-
-**Customize your Sandwich & Home Screens – Logged-in User**  
-<img src="https://github.com/user-attachments/assets/be89e813-ee69-4785-9f99-9f97e114eaa0" width="200" /> 
-<img src="https://github.com/user-attachments/assets/173838e2-f9dd-4200-a2c5-9f5b8ff6ab35" width="200" /> 
-
-**Order History & Profile – Logged-in User**  
-<img src="https://github.com/user-attachments/assets/3c0b0638-082a-42e0-87c3-9aaad3d8549f" width="200" /> 
-<img src="https://github.com/user-attachments/assets/ab6c6327-2fbb-43ea-9243-7ea1b1236160" width="200" /> 
-<img src="https://github.com/user-attachments/assets/8705c07a-652d-43c7-91b3-5c370bdf872c" width="200" /> 
-<img src="https://github.com/user-attachments/assets/4bdb11c2-ac8e-46e3-82bc-b3a13bb15e0d" width="200" /> 
-
----
 
 ## Packages 🛠️
 
